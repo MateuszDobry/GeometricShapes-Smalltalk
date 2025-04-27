@@ -1,8 +1,8 @@
 " Jezyki Programowania - Projekt II - Smalltalk
 Autorzy:
-    Ostap Lozovyy - 197747
-    Michał Matysiak - 198395
-    Mateusz Dobry - 198122 "
+    Ostap Lozovyy
+    Michał Matysiak 
+    Mateusz Dobry "
 
 Object subclass: #Wielokat
 	instanceVariableNames: 'wierzcholki nazwa okrag'
